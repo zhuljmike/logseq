@@ -1,0 +1,2 @@
+# logseq
+repo for logseq
